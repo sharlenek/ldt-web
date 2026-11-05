@@ -11,6 +11,7 @@ export default function RootLayout() {
     <SafeAreaProvider>
       <Head>
         <title>UF Lion Dance Team</title>
+        <link rel="stylesheet" href="https://use.typekit.net/kcw4fgz.css" />
         <meta
           name="description"
           content="University of Florida Lion Dance Team official website with performance info, board profiles, media, merch, and contact details."

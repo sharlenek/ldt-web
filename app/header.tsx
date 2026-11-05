@@ -224,7 +224,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "space-between",
   },
-  logoWrap: { flexDirection: "row", alignItems: "center", gap: 12 },
+  logoWrap: { flexDirection: "row", alignItems: "center", gap: 8 },
   logo: { width: 70, height: 70, resizeMode: "contain" },
   wordmark: {
     width: 220,
